@@ -1,0 +1,43 @@
+/* body{
+    background-image: url('bg.jpg');
+    background-position: center;
+    background-size: cover cover;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Montserrat:wght@800&family=Open+Sans:ital,wght@0,600;1,600&family=Playfair+Display:ital@1&family=Poppins:wght@400;700&display=swap');
+
+#header{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    line-height: 28px;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.auth-name{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.inner{
+    width: 50%;
+}
+.quote{
+    border-radius: 50%;
+    border-color: brown;
+    border-width: 8px;
+}
+.rounded-img{
+    width: 50px;
+    border: 3px solid #09c;
+    border-radius: 50%;
+}
+#btn{
+    cursor: pointer;
+
+}
